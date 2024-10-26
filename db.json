@@ -40,73 +40,137 @@
   "products": [
     {
       "id": 1,
-      "title": "Product 1",
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 20,
-      "rating": 4.5,
-      "reviewCount": 64,
-      "imageUrl": "/images/product.png"
+      "title": "Produk 1",
+      "price": { "min": 155.0, "max": 255.0 },
+      "reviews": 32,
+      "discount": 10,
+      "rating": 4,
+      "images": [
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png"
+      ],
+      "colors": ["#aae6f8", "#5f8af7", "#59c3c0"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "specifications": "We’ve created a full-stack structure for our working workflow processes, were from the funny the century initial all the made, have spare to negatives. But the structure was from the funny the century rather, initial all the made, have spare to negatives."
     },
+
     {
       "id": 2,
       "title": "Product 2",
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 20,
-      "rating": 5,
-      "reviewCount": 32,
-      "imageUrl": "/images/product.png"
+      "price": { "min": 155.0, "max": 255.0 },
+      "reviews": 32,
+      "discount": 10,
+      "rating": 4,
+      "images": [
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png"
+      ],
+      "colors": ["#aae6f8", "#5f8af7", "#59c3c0"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "specifications": "We’ve created a full-stack structure for our working workflow processes, were from the funny the century initial all the made, have spare to negatives. But the structure was from the funny the century rather, initial all the made, have spare to negatives."
     },
     {
       "id": 3,
       "title": "Product 3",
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 20,
-      "rating": 5,
-      "reviewCount": 32,
-      "imageUrl": "/images/product.png"
+      "price": { "min": 155.0, "max": 255.0 },
+      "reviews": 32,
+      "discount": 10,
+      "rating": 4,
+      "images": [
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png"
+      ],
+      "colors": ["#aae6f8", "#5f8af7", "#59c3c0"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "specifications": "We’ve created a full-stack structure for our working workflow processes, were from the funny the century initial all the made, have spare to negatives. But the structure was from the funny the century rather, initial all the made, have spare to negatives."
     },
     {
       "id": 4,
       "title": "Product 4",
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 20,
-      "rating": 5,
-      "reviewCount": 32,
-      "imageUrl": "/images/product.png"
+      "price": { "min": 155.0, "max": 255.0 },
+      "reviews": 32,
+      "discount": 10,
+      "rating": 4,
+      "images": [
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png"
+      ],
+      "colors": ["#aae6f8", "#5f8af7", "#59c3c0"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "specifications": "We’ve created a full-stack structure for our working workflow processes, were from the funny the century initial all the made, have spare to negatives. But the structure was from the funny the century rather, initial all the made, have spare to negatives."
     },
     {
       "id": 5,
       "title": "Product 5",
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 20,
-      "rating": 5,
-      "reviewCount": 32,
-      "imageUrl": "/images/product.png"
+      "price": { "min": 155.0, "max": 255.0 },
+      "reviews": 32,
+      "discount": 10,
+      "rating": 4,
+      "images": [
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png"
+      ],
+      "colors": ["#aae6f8", "#5f8af7", "#59c3c0"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "specifications": "We’ve created a full-stack structure for our working workflow processes, were from the funny the century initial all the made, have spare to negatives. But the structure was from the funny the century rather, initial all the made, have spare to negatives."
     },
     {
       "id": 6,
       "title": "Product 6",
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 20,
-      "rating": 5,
-      "reviewCount": 32,
-      "imageUrl": "/images/product.png"
+      "price": { "min": 155.0, "max": 255.0 },
+      "reviews": 32,
+      "discount": 10,
+      "rating": 4,
+      "images": [
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png"
+      ],
+      "colors": ["#aae6f8", "#5f8af7", "#59c3c0"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "specifications": "We’ve created a full-stack structure for our working workflow processes, were from the funny the century initial all the made, have spare to negatives. But the structure was from the funny the century rather, initial all the made, have spare to negatives."
     },
     {
       "id": 7,
       "title": "Product 7",
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 20,
-      "rating": 5,
-      "reviewCount": 32,
-      "imageUrl": "/images/product.png"
+      "price": { "min": 155.0, "max": 255.0 },
+      "reviews": 32,
+      "discount": 10,
+      "rating": 4,
+      "images": [
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png",
+        "/images/product.png"
+      ],
+      "colors": ["#aae6f8", "#5f8af7", "#59c3c0"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "specifications": "We’ve created a full-stack structure for our working workflow processes, were from the funny the century initial all the made, have spare to negatives. But the structure was from the funny the century rather, initial all the made, have spare to negatives."
     }
   ]
 }
